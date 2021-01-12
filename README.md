@@ -8,4 +8,5 @@ The code in the  &lt;&lt;Hacking:The Art of Exploitation>>
 mkdir build
 cd build
 cmake ..
+make
 ```
