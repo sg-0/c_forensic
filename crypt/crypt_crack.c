@@ -1,6 +1,7 @@
 #define _XOPEN_SOURCE
 #include <unistd.h>
 #include <stdio.h>
+#include <crypt.h>
 
 /* barf a message and exit */
 void barf(char *message, char *extra) {

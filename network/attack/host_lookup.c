@@ -7,7 +7,7 @@
 
 #include <netdb.h>
 
-#include "../../include/hacking.h"
+#include "hacking.h"
 
 int main(int argc, char *argv[]){
 	struct hostent *host_info;
